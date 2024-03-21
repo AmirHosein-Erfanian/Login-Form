@@ -59,3 +59,13 @@ body{
     border-right: 1px solid #00dfc4;
     letter-spacing: 0.2em;
 }
+
+#btn{
+    width: 100px;
+    height: 30px;
+    font-size: 1em;
+    padding: 0 10px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background-color: #1d2b1a;
+    border-radius: 5px;
+}
